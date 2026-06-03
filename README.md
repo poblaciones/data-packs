@@ -1,22 +1,22 @@
 # data-packs
 
-Conjuntos de cartografÌas para inicializar Poblaciones
+Conjuntos de cartograf√≠as para inicializar Poblaciones
 
-# IntroducciÛn
+# Introducci√≥n
 
-Los data-packs proveen de cartografÌas de base (geografÌas), regiones de recorte y cartografÌas de ejemplo con los cuales trabajar datos a nivel nacional.
+Los data-packs proveen de cartograf√≠as de base (geograf√≠as), regiones de recorte y cartograf√≠as de ejemplo con los cuales trabajar datos a nivel nacional.
 
 Actualmente se encuentra disponible el data-pack para Argentina.
 
 
 
-Descargar datapack-ar v5.4: \[https://poblaciones.org/guias/poblaciones\_arg\_v5.4.zip] (https://poblaciones.org/guias/poblaciones\_arg\_v5.4.zip)
+Descargar datapack-ar v5.4: [https://poblaciones.org/guias/poblaciones\_arg\_v5.4.zip]
 
 
 
-La nueva estructura incluye la utilidad de restauraciÛn de bases de datos: bcup.py (se encuentra dentro del zip), que restaura el conjunto de archivos incluidos en el datapack en una base de datos MySQL creada previamente.
+La nueva estructura incluye la utilidad de restauraci√≥n de bases de datos: bcup.py (se encuentra dentro del zip), que restaura el conjunto de archivos incluidos en el datapack en una base de datos MySQL creada previamente.
 
 
 
-Si est· utilizando la aplicaciÛn en otros paÌses y quiere publicar sus geografÌas y regiones de recorte como datapacks, escribir a contacto@poblaciones.org.
+Si est√° utilizando la aplicaci√≥n en otros pa√≠ses y quiere publicar sus geograf√≠as y regiones de recorte como datapacks, escribir a contacto@poblaciones.org.
 
